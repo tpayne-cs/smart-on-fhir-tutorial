@@ -7,10 +7,10 @@ body {
   margin: 0;
 }
 h1 {
-  text-color: #026eaa;
+  color: #026eaa;
 }
 h2 {
-  text-color: #6da34b;
+  color: #6da34b;
 }
 #holder {
   display: none;
