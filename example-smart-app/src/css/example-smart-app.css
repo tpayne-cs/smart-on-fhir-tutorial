@@ -5,9 +5,13 @@ th, td {
 
 body {
   margin: 0;
-  background-color: lightblue;
 }
-
+h1 {
+  text-color: #026eaa;
+}
+h2 {
+  text-color: #6da34b;
+}
 #holder {
   display: none;
 }
